@@ -77,26 +77,10 @@ C:\path\to\your\.venv\Scripts\python.exe main.py
 
 You may include screenshots, GIFs, or short demo videos here for presentation. To add a screenshot, place the image under `assets/` (for example `assets/screenshots/demo1.png`) and reference it in the README with Markdown:
 
-```markdown
-![Gameplay demo](assets/screenshots/demo1.png)
-```
 
-## Prepare a public GitHub repository (submission instructions)
 
-When you're ready to submit, create a public GitHub repository and push the project. Example commands (run from the `sheep-runner` folder):
 
-```powershell
-# Initialize the repo (if not already a git repo)
-git init
-git add .
-git commit -m "Initial commit - Sheep Runner"
-# Create a repo on GitHub (replace <your-repo-url> with the remote URL from GitHub)
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
 
-Make sure the repository is set to Public on GitHub so your instructor can access it.
-
+https://github.com/user-attachments/assets/93501418-d0a7-4105-ac65-d799d94638f0
 
 
