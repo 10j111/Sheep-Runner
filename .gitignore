@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Distribution
+dist/
+build/
+*.spec
+
+# Assets that are large (keep if you want to include)
+# assets/sounds/
