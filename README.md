@@ -111,12 +111,4 @@ After you create the public GitHub repository, copy the repository URL and submi
 
 This project is provided for coursework. Feel free to use and adapt it for the assignment. Include proper attribution if you reuse code or assets from elsewhere.
 
----
 
-提交说明（中文简要）：
-
-1. 使用上面的步骤创建并激活虚拟环境，安装依赖。
-2. 在 GitHub 上创建公开仓库并将本项目推送（参考上面的 git 命令）。
-3. 在 Blackboard 提交 GitHub 仓库链接。
-
-如果要我代为创建仓库并推送（你需要给我 GitHub repo 的 URL 或授权令牌），告诉我，我可以把当前项目打包并生成推送步骤说明。
