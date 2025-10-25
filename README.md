@@ -98,17 +98,5 @@ git push -u origin main
 
 Make sure the repository is set to Public on GitHub so your instructor can access it.
 
-## Submitting the link on Blackboard
-
-After you create the public GitHub repository, copy the repository URL and submit it on Blackboard as requested by your course instructions. You can update the repo contents later and Blackboard will reference the same URL.
-
-## Troubleshooting
-
-- If you get an error `ModuleNotFoundError: No module named 'pygame'` or `No module named 'numpy'`, confirm you're running the Python executable from the activated virtual environment and that `pip install -r requirements.txt` completed successfully.
-- If the Pygame window doesn't show or crashes, check the terminal for error messages and ensure your system has SDL support (most Windows installations are fine with the pygame wheel).
-
-## License & Credits
-
-This project is provided for coursework. Feel free to use and adapt it for the assignment. Include proper attribution if you reuse code or assets from elsewhere.
 
 
