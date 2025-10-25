@@ -75,12 +75,12 @@ C:\path\to\your\.venv\Scripts\python.exe main.py
 
 ## Screenshots / Demo
 
-You may include screenshots, GIFs, or short demo videos here for presentation. To add a screenshot, place the image under `assets/` (for example `assets/screenshots/demo1.png`) and reference it in the README with Markdown:
 
 
 
 
 
 https://github.com/user-attachments/assets/93501418-d0a7-4105-ac65-d799d94638f0
+
 
 
